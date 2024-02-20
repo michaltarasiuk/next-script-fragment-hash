@@ -12,9 +12,6 @@ export default function HomePage() {
           <li>
             <Link href="/2">Go to page 2</Link>
           </li>
-          <li>
-            <Link href="/3">Go to page 3</Link>
-          </li>
         </ul>
       </nav>
     </div>
